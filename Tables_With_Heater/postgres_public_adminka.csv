@@ -1,0 +1,9 @@
+id,name,surname,lastname,role,login,password
+1,Валерия ,Иванова ,Егоровна,intern,intern,intern
+2,Родион ,Ковалев ,Миронович,worker,worker,worker
+3,Маргарита ,Белякова ,Ивановна,admin,admin,admin
+4,Ксения ,Кольцова ,Константиновна,root,root,root
+5,Гордей ,Жуков ,Ибрагимович,worker,kavo,qwerty
+6,Марк ,Крылов ,Максимович,intern,login,asdfg
+7,Маргарита ,Панфилова ,Даниловна,admin,margo,zxcvb
+8,Николай ,Новиков ,Алексеевич,root,kolya,12345
